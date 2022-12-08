@@ -25,3 +25,8 @@ with changing the var x to x.
 now i will try to implement the date of the form to the new time by the countdown.
 with the new button.
 Also mad a splash button to change the toggle background.
+
+
+Figma Link: https://www.figma.com/file/HLLmv4D5TqsvxhTI5KbJtK/Untitled?t=AnLPUSvkmNSH4cH9-0
+Trello Link: https://www.figma.com/file/HLLmv4D5TqsvxhTI5KbJtK/Untitled?t=AnLPUSvkmNSH4cH9-0
+retrospektive Link: https://docs.google.com/presentation/d/16hIJ0bLY-46k3EqzqZgRx0494IIegOzcnsrVWNzr4BI/edit?usp=share_link
