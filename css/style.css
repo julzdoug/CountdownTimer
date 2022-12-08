@@ -1,0 +1,65 @@
+@font-face {
+  font-family: snowkybrush;
+  src: url(/CountdownTimer/fonts/snowkybrush.ttf);
+}
+
+div {
+  font-family: snowkybrush;
+}
+
+@font-face {
+  font-family: Luminados Fraktur;
+  src: url(CountdownTimer/fonts/Luminados-Fraktur.ttf);
+}
+
+div {
+  font-family: Luminados Fraktur;
+}
+
+body {
+  text-align: center;
+  padding: 70px 50px;
+  background: #0adaf6;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+h1 {
+  text-align: center;
+  background: #0adaf6;
+  font-family:snowkybrush;
+  font-weight: lighter;
+}
+
+
+#timer {
+  font-family: snowkybrush;
+  font-size: 2em;
+  font-weight: bolder;
+  color: crimson;
+  text-shadow: cornsilk;
+}
+
+p,button {
+  font-family: snowkybrush;
+  font-size: 5em;
+  font-weight: 100;
+  color: rgb(0, 0, 0);
+  text-shadow: 0 0 20px #48c8ff;
+}
+ 
+#timer div {
+  display: inline-block;
+  min-width: 90px;
+}
+ 
+#timer div span {
+  color: #b1cdf1;
+  display: block;
+  font-size: 0.35em;
+  font-weight: 400;
+}
+.brightMode {
+  background-color: gold;
+  color:springgreen
+}
